@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Core\\": "core/",
+            "Core\\Interfaces\\": "core/interfaces/",
+            "Os\\Web\\": "os/web/",
+            "Os\\Windows\\": "os/windows/",
+            "Os\\Linux\\": "os/linux/"
+        }
+    }
+}
